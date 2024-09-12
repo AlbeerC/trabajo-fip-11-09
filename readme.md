@@ -2,8 +2,6 @@
 
 ## Descripción
 
-Matías Ceccarelli, Amelia Libertad Lurbet, Thomas Diego Echeverria, Alberto Caminos
-
 - crear una tormenta de ideas del tema de la página.
 - listar las tareas de lo que tenemos que realizar
 - dividir las tareas en el grupo

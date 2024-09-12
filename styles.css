@@ -172,3 +172,58 @@ footer {
 .social-icons a:hover{
     fill: #8517a0; 
 }
+
+
+
+/* Contact */
+
+.contact-title {
+    text-align: center;
+    margin: 20px 0;
+    color: #282c34;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 30vw;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+
+    .field {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        width: 100%;
+    
+        label {
+            font-weight: bold;
+            font-size: 18px;
+        }
+    
+        input, textarea {
+            padding: 10px 5px;
+            width: 100%;
+        }
+    }
+
+    .send-btn {
+        background-color: #282c34;
+        color: #fff;
+        padding: 15px 50px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 20px;
+        margin-top: 20px;
+        font-weight: bold;
+    }
+}

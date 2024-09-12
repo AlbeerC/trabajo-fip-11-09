@@ -11,4 +11,4 @@
 - crear una rama
 -  una vez terminado el trabajo enviar todo al repositorio remoto
 -  realizar un Pull request para la aprobación
--  unir la rama al principal
+-  unir la rama al principal     

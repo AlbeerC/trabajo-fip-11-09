@@ -117,8 +117,9 @@ form {
     flex-direction: column;
     width: 30vw;
     margin: 0 auto;
-    padding: 20px;
-    background-color: #f4f4f4;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 
     .field {
         display: flex;
@@ -145,7 +146,8 @@ form {
         border: none;
         border-radius: 5px;
         cursor: pointer;
-        font-size: 18px;
+        font-size: 20px;
         margin-top: 20px;
+        font-weight: bold;
     }
 }
